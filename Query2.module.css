@@ -1,0 +1,21 @@
+.cardcustom{
+
+background-color: red;
+width: 86rem;
+height: 31rem
+
+
+}
+
+.deptcustom{
+
+    background-color: #dbd7d661;
+    width: 65rem;
+    margin-left: 24rem;
+    padding-left: 13rem;
+    padding-right: 13rem;
+    padding-top: 1rem;
+    border: 1px solid #dbd7d661;
+    border-radius: 34px;
+    transition: all 0.3s ease;
+}
